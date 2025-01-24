@@ -1,0 +1,90 @@
+body {
+    width: 450px;
+    height: 400px;
+    background: #1F2937;
+    border: 5px solid white;
+    border-radius:    20px;
+    align-content: center;
+    padding: 20px 
+}
+#Container {
+    color: white;
+    font-size: 20px;
+    font-family: Karla;
+    font-style: normal;
+    letter-spacing: -1px;
+}
+#spanRandomPassword{
+    color: #4ADF86;
+}
+
+h1{
+  color: white;
+}
+#belowHeaderParagraph {
+    padding: 0px;
+    font-style:italic;
+  color: white;
+    }
+    
+#generatePasswordBtn {
+    margin-top: 40px;
+    padding: 9px 17px 9px 15px;
+    justify-content: center;
+    align-items: center;
+    background-color: #10B981;
+    border-radius: 6px;
+    border-style: none;
+}
+#showPasswordContainers {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    
+}
+.passwordContainers {
+    width: 211px;
+    height: 39px;
+    border-radius: 6px;
+    background: #273549;
+    text-align: center;
+    color: #10B981;
+    font-family: Inter;
+    font-size: 13 px;
+    font-style: normal;
+    font-weight: 500;
+    padding-bottom: 12px;
+}
+hr {
+    margin-top: 40px;
+    border-color: #10B981;
+}
+form {
+    color: #10B981;
+}
+#formSubmitButton {
+     display: flex;
+}
+#quantity {
+    background-color: #273549;
+    border: none;
+    color: #10B981;
+    width: 50px;
+    text-align: center;
+    margin-top:  10px;
+}
+#button {
+    background: #273549;
+    text-align: center;
+    color: #10B981;
+    border: solid 1px black;
+    border-radius: 10px;
+    margin-left: 5px;
+}
+#quantityParagraph {
+    color: #10B981;
+}
+#el-errorMessage {
+    color: red;
+    font-weight:bold
+}
