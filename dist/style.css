@@ -39,7 +39,7 @@ h1{
 #showPasswordContainers {
     display: flex;
     justify-content: space-around;
-    margin-top: 40px;
+    margin-top: 20px;
     
 }
 .passwordContainers {
@@ -54,7 +54,7 @@ h1{
     font-style: normal;
     font-weight: 500;
     padding-bottom: 12px;
-    margin: 5px;
+    
 }
 hr {
     margin-top: 40px;
